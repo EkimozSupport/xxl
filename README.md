@@ -1,6 +1,6 @@
 # 🎵 [Calls Music](https://github.com/callsmusic) Remix
 
-An operational and exprimental Telegram music bot.
+Operasyonel ve exprimental Telegram müzik botu.
 
 ---
 
@@ -56,7 +56,7 @@ npm start
 
 ## ☁️ Cloud platforms
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/remix)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mehmetbaba55/MamiRemix)
 
 ## ⚒ Configuring
 
